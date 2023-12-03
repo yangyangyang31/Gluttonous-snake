@@ -1,0 +1,5 @@
+﻿  game.cpp
+D:\文件\workspace\新建文件夹\小小贪吃蛇\小小贪吃蛇\game.cpp(23,12): warning C4244: “=”: 从“WPARAM”转换到“char”，可能丢失数据
+D:\文件\workspace\新建文件夹\小小贪吃蛇\小小贪吃蛇\game.cpp(28,12): warning C4244: “=”: 从“WPARAM”转换到“char”，可能丢失数据
+D:\文件\workspace\新建文件夹\小小贪吃蛇\小小贪吃蛇\game.cpp(58): warning C4715: “Proc”: 不是所有的控件路径都返回值
+  小小贪吃蛇.vcxproj -> D:\文件\workspace\新建文件夹\小小贪吃蛇\x64\Debug\小小贪吃蛇.exe
